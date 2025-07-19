@@ -3,31 +3,31 @@ const pizzasSalgadas = [
     nome: "Calabresa",
     desc: "Calabresa, cebola, orégano",
     preco: "R$ 39,90",
-    img: "imagens.zip/Calabresa.jpg"
+    img: "imagens/Calabresa.jpg"
   },
   {
     nome: "Portuguesa",
     desc: "Presunto, ovo, cebola, ervilha",
     preco: "R$ 46,90",
-    img: "imagens.zip/Portuguesa.jpg"
+    img: "imagens/Portuguesa.jpg"
   },
   {
     nome: "Frango c/ Catupiry",
     desc: "Frango, catupiry e milho",
     preco: "R$ 45,00",
-    img: "imagens.zip/Frango.webp"
+    img: "imagens/Frango.webp"
   },
   {
     nome: "Quatro Queijos",
     desc: "Muçarela, gorgonzola, parmesão, catupiry",
     preco: "R$ 49,90",
-    img: "imagens.zip/Quatro.avif"
+    img: "imagens/Quatro.avif"
   },
   {
     nome: "Marguerita",
     desc: "Tomate, muçarela e manjericão",
     preco: "R$ 42,00",
-    img: "imagens.zip/Marguerita.jpg"
+    img: "imagens/Marguerita.jpg"
   }
 ];
 
@@ -36,13 +36,13 @@ const pizzasDoces = [
     nome: "Romeu e Julieta",
     desc: "Muçarela com goiabada",
     preco: "R$ 35,00",
-    img: "imagens.zip/Romeu.jpg"
+    img: "imagens/Romeu.jpg"
   },
   {
     nome: "Chocolate",
     desc: "Chocolate ao leite e granulado",
     preco: "R$ 37,00",
-    img: "imagens.zip/Chocolate.webp"
+    img: "imagens/Chocolate.webp"
   },
   {
     nome: "Prestígio",
@@ -57,19 +57,19 @@ const bebidas = [
     nome: "Coca-Cola 2L",
     desc: "Clássica geladinha",
     preco: "R$ 10,00",
-    img: "imagens.zip/coca.webp"
+    img: "imagens/coca.webp"
   },
   {
     nome: "Guaraná Antarctica 2L",
     desc: "Sabor brasileiro",
     preco: "R$ 9,50",
-    img: "imagens.zip/guarana.webp"
+    img: "imagens/guarana.webp"
   },
   {
     nome: "Suco de Laranja 1L",
     desc: "Natural e refrescante",
     preco: "R$ 8,00",
-    img: "imagens.zip/Suco.jpg"
+    img: "imagens/Suco.jpg"
   }
 ];
 
