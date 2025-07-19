@@ -63,7 +63,7 @@ const bebidas = [
     nome: "Guaraná Antarctica 2L",
     desc: "Sabor brasileiro",
     preco: "R$ 9,50",
-    img: "imagens/guarana.webp"
+    img: "imagens/guarana.png"
   },
   {
     nome: "Suco de Laranja 1L",
