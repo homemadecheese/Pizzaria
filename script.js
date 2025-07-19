@@ -48,7 +48,7 @@ const pizzasDoces = [
     nome: "Prestígio",
     desc: "Chocolate, coco e leite condensado",
     preco: "R$ 39,00",
-    img: "imagens.zip/Prestigio.jpg"
+    img: "imagens/Prestigio.jpg"
   }
 ];
 
@@ -63,7 +63,7 @@ const bebidas = [
     nome: "Guaraná Antarctica 2L",
     desc: "Sabor brasileiro",
     preco: "R$ 9,50",
-    img: "imagens/guarana.png"
+    img: "imagens/Guarana.png"
   },
   {
     nome: "Suco de Laranja 1L",
